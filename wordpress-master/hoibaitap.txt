@@ -1,0 +1,5 @@
+CREATE table IF NOT EXISTS quan_ly_bai_viet(
+                    mabv INT(11) PRIMARY KEY,
+                    id_admin int (11),
+                    thoi_gian_dang DATE,
+                    FOREIGN KEY (id_admin) REFERENCES Useradmin(id_admin)

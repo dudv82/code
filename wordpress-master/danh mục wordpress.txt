@@ -1,0 +1,4 @@
+singel.php  =>  trang tin tức
+catogary.php =>  danh mục các sản phẩm
+single-product => chi tiết sản phẩm
+uwoommerce/ singgelproduct/related -> sản phẩm liên quan
